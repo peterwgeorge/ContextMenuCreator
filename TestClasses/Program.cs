@@ -17,7 +17,7 @@ namespace TestClasses
             #region Create entries
             ContextMenuItem cmd = new ContextMenuItem("cmd");
             cmd.AssignDisplay(new ItemDisplay("cmd.exe"));
-            cmd.MapExe(new Executable("cmd.exe", new string[] { "%1" }));
+            cmd.MapExe(new Executable("cmd.exe", new string[] { }));
 
             Menu subMenu = new Menu("editors");
             subMenu.AssignDisplay(new ItemDisplay("Text Editors"));
