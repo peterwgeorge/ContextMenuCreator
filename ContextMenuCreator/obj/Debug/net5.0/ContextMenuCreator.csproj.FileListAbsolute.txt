@@ -1,0 +1,11 @@
+C:\Users\pgeorge\source\repos\ContextMenuCreator\ContextMenuCreator\bin\Debug\net5.0\ContextMenuCreator.deps.json
+C:\Users\pgeorge\source\repos\ContextMenuCreator\ContextMenuCreator\bin\Debug\net5.0\ContextMenuCreator.dll
+C:\Users\pgeorge\source\repos\ContextMenuCreator\ContextMenuCreator\bin\Debug\net5.0\ref\ContextMenuCreator.dll
+C:\Users\pgeorge\source\repos\ContextMenuCreator\ContextMenuCreator\bin\Debug\net5.0\ContextMenuCreator.pdb
+C:\Users\pgeorge\source\repos\ContextMenuCreator\ContextMenuCreator\obj\Debug\net5.0\ContextMenuCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgeorge\source\repos\ContextMenuCreator\ContextMenuCreator\obj\Debug\net5.0\ContextMenuCreator.AssemblyInfoInputs.cache
+C:\Users\pgeorge\source\repos\ContextMenuCreator\ContextMenuCreator\obj\Debug\net5.0\ContextMenuCreator.AssemblyInfo.cs
+C:\Users\pgeorge\source\repos\ContextMenuCreator\ContextMenuCreator\obj\Debug\net5.0\ContextMenuCreator.csproj.CoreCompileInputs.cache
+C:\Users\pgeorge\source\repos\ContextMenuCreator\ContextMenuCreator\obj\Debug\net5.0\ContextMenuCreator.dll
+C:\Users\pgeorge\source\repos\ContextMenuCreator\ContextMenuCreator\obj\Debug\net5.0\ref\ContextMenuCreator.dll
+C:\Users\pgeorge\source\repos\ContextMenuCreator\ContextMenuCreator\obj\Debug\net5.0\ContextMenuCreator.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextMenuCreator", "ContextMenuCreator\ContextMenuCreator.csproj", "{12435395-1575-4368-BCCA-B615CB442413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClasses", "TestClasses\TestClasses.csproj", "{FC1BCD61-2DE6-4668-8806-32645F0BEC8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12435395-1575-4368-BCCA-B615CB442413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12435395-1575-4368-BCCA-B615CB442413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12435395-1575-4368-BCCA-B615CB442413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12435395-1575-4368-BCCA-B615CB442413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1BCD61-2DE6-4668-8806-32645F0BEC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1BCD61-2DE6-4668-8806-32645F0BEC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1BCD61-2DE6-4668-8806-32645F0BEC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1BCD61-2DE6-4668-8806-32645F0BEC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AD475A3-6681-4C45-BBAA-EAE3480B1D00}
+	EndGlobalSection
+EndGlobal
